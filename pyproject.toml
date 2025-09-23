@@ -13,6 +13,7 @@ dependencies = [
     "pydantic>=2.11.7",
     "pyyml>=0.0.2",
     "rich>=13.7.0",
+    "scikit-learn>=1.7.2",
     "seaborn>=0.13.2",
     "torch>=2.7.1",
     "uvicorn>=0.34.3",
